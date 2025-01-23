@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div id="badges">
-  <a href="https://t.me/@daryaulyuno">
+  <a href="https://t.me/daryaulyuno">
     <img src="https://img.icons8.com/?size=100&id=OL7raPBi1HvO&format=png&color=000000" alt="LinkedIn Badge"/>
 </div>
 
