@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.icons8.com/?size=100&id=OL7raPBi1HvO&format=png&color=000000" alt="LinkedIn Badge"/>
+</div>
+
 <!--
 **daryaulrikh/daryaulrikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
